@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: 000;
+}
+
+body{
+  background-image: linear-gradient(to left top ,#020024,#04bee4, #00d4ff);
+  background-repeat: no-repeat;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.container{
+  display: block;
+  margin: 20px;
+}
+
+.carteira > .container > h1 {
+  font-size: 2rem;
+  text-align: center;
+}
